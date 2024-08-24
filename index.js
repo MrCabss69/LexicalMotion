@@ -1,3 +1,12 @@
+/* Project: LexicalMotion
+ * Description: Pixel dance - word shapes
+ * 
+ * Author: @MrCabss69, 
+ * Assistants: ChatGPT, Claude, Gemini
+ * Created on: Sat Aug 24 2024
+*/ 
+
+
 // Configuration
 const CONFIG = {
     MAX_PARTICLES: 5000,
