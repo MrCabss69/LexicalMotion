@@ -1,3 +1,5 @@
+// config_manager.js 
+
 class ConfigManager {
     constructor() {
         this.config = this.getDefaultConfig();

@@ -1,4 +1,4 @@
-// AnimationController.js
+// animation_controller.js
 
 class AnimationController {
     constructor(container) {

@@ -1,4 +1,5 @@
-// Utility functions
+// utils.js 
+
 const Utils = {
     random: (min, max) => Math.random() * (max - min) + min,
     clamp: (value, min, max) => Math.max(min, Math.min(max, value)),

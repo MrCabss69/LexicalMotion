@@ -1,4 +1,5 @@
 // UIManager.js
+
 class UIManager {
     constructor(animationController) {
         this.animationController = animationController;

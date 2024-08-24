@@ -1,3 +1,5 @@
+// particle.js 
+
 class Particle {
     constructor(x, y, configManager) {
         if (!configManager) {

@@ -1,4 +1,5 @@
-//text_renderer.js
+// text_renderer.js
+
 class TextRenderer {
     constructor(canvasManager, configManager) {
         this.canvasManager = canvasManager;

@@ -1,3 +1,6 @@
+// canvas_manager.js 
+
+
 class CanvasManager {
     constructor(container) {
         this.container = container;
