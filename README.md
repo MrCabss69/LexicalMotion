@@ -2,7 +2,7 @@
 
 LexiconInMotion is an interactive particle text animation project that transforms words into a mesmerizing dance of pixels. This project leverages the power of HTML5 Canvas, JavaScript, and creative coding techniques to create stunning visual representations of text through a complex system of animated particles.
 
-![Example](demo.png)
+![Visual Demo](demo.png)
 
 ## Features
 
